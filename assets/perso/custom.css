@@ -1,0 +1,332 @@
+/* --- decoration au survol de l'icone video mbri-play --- */
+.mbri-play.mbr-iconfont{ 
+border: 3px dotted transparent;
+}
+
+.mbri-play.mbr-iconfont:hover {
+background-color:#B2EBF2;
+transition: background-color 1s;
+border: 3px dotted rgba(222, 49, 99, 1);
+}
+
+
+/* --- timeline --- */
+.cid-qEIJrN4QrK .timeline-text-content {
+  padding: 2rem 2.5rem;
+  background: #ffffff;
+  margin-left: 2rem;
+}
+.cid-qEIJrN4QrK .time-line-date-content p {
+  padding: 2rem 2.5rem;
+  background: #ffffff;
+  float: right;
+}
+.cid-qEIJrN4QrK .iconBackground {
+  position: absolute;
+  left: 50%;
+  width: 20px;
+  height: 20px;
+  line-height: 30px;
+  text-align: center;
+  border-radius: 50%;
+  font-size: 30px;
+  display: inline-block;
+  background-color: #ffffff;
+  top: 20px;
+  margin-left: -10px;
+}
+.cid-qEIJrN4QrK .iconBackground-1 {
+  position: absolute;
+  left: 50%;
+  width: 20px;
+  height: 20px;
+  line-height: 30px;
+  text-align: center;
+  border-radius: 50%;
+  font-size: 30px;
+  display: inline-block;
+  background-color: #D1B606;
+  top: 20px;
+  margin-left: -10px;
+}
+
+.cid-qEIJrN4QrK .iconBackground-2 {
+  position: absolute;
+  left: 50%;
+  width: 20px;
+  height: 20px;
+  line-height: 30px;
+  text-align: center;
+  border-radius: 50%;
+  font-size: 30px;
+  display: inline-block;
+  background-color: #DE3163;
+  top: 20px;
+  margin-left: -10px;
+}
+
+.cid-qEIJrN4QrK .iconBackground-3 {
+  position: absolute;
+  left: 50%;
+  width: 20px;
+  height: 20px;
+  line-height: 30px;
+  text-align: center;
+  border-radius: 50%;
+  font-size: 30px;
+  display: inline-block;
+  background-color: #01796F;
+  top: 20px;
+  margin-left: -10px;
+}
+
+.cid-qEIJrN4QrK .iconBackground-4 {
+  position: absolute;
+  left: 50%;
+  width: 20px;
+  height: 20px;
+  line-height: 30px;
+  text-align: center;
+  border-radius: 50%;
+  font-size: 30px;
+  display: inline-block;
+  background-color: #fa6900;
+  top: 20px;
+  margin-left: -10px;
+}
+
+.cid-qEIJrN4QrK .iconBackground-5 {
+  position: absolute;
+  left: 50%;
+  width: 20px;
+  height: 20px;
+  line-height: 30px;
+  text-align: center;
+  border-radius: 50%;
+  font-size: 30px;
+  display: inline-block;
+  background-color: #318CE7;
+  top: 20px;
+  margin-left: -10px;
+}
+
+.cid-qEIJrN4QrK .separline:before {
+  top: 20px;
+  bottom: 0;
+  position: absolute;
+  content: "";
+  width: 2px;
+  background-color: #ffffff;
+  left: calc(50% - 1px);
+  height: calc(100% + 4rem);
+}
+
+/* --- timeline item 1 --- */
+.timeline-text-content-1 {
+  padding: 2rem 2.5rem;
+  background: #ffffff;
+  margin-left: 2rem;
+}
+.timeline-text-content-1 p {
+  margin-bottom: 0;
+}
+.time-line-date-content-1 {
+  margin-right: 2rem;
+}
+.time-line-date-content-1 p {
+  padding: 2rem 2.5rem;
+  background: #ffffff;
+  float: right;
+}
+.timeline-element:hover .mbr-timeline-date-1 {
+  box-shadow: 0 7px 20px 0px rgba(0, 0, 0, 0.08);
+  transition: all .4s;
+}
+.timeline-element:hover .timeline-text-content-1 {
+  box-shadow: 0 7px 20px 0px rgba(0, 0, 0, 0.08);
+  transition: all .4s;
+}
+.mbr-timeline-date-1,
+.timeline-text-content-1 {
+  transition: all .4s;
+  color: #D1B606;
+}
+.reverse .timeline-text-content-1 {
+  margin-right: 2rem;
+  margin-left: 0;
+}
+.reverse .time-line-date-content-1 {
+  margin-left: 2rem;
+  margin-right: 0rem;
+}
+.reverse .time-line-date-content-1 p {
+  float: left;
+}
+
+/* --- timeline item 2 --- */
+.timeline-text-content-2 {
+  padding: 2rem 2.5rem;
+  background: #ffffff;
+  margin-left: 2rem;
+}
+.timeline-text-content-2 p {
+  margin-bottom: 0;
+}
+.time-line-date-content-2 {
+  margin-right: 2rem;
+}
+.time-line-date-content-2 p {
+  padding: 2rem 2.5rem;
+  background: #ffffff;
+  float: right;
+}
+.timeline-element:hover .mbr-timeline-date-2 {
+  box-shadow: 0 7px 20px 0px rgba(0, 0, 0, 0.08);
+  transition: all .4s;
+}
+.timeline-element:hover .timeline-text-content-2 {
+  box-shadow: 0 7px 20px 0px rgba(0, 0, 0, 0.08);
+  transition: all .4s;
+}
+.mbr-timeline-date-2,
+.timeline-text-content-2 {
+  transition: all .4s;
+  color: #DE3163;
+}
+.reverse .timeline-text-content-2 {
+  margin-right: 2rem;
+  margin-left: 0;
+}
+.reverse .time-line-date-content-2 {
+  margin-left: 2rem;
+  margin-right: 0rem;
+}
+.reverse .time-line-date-content-2 p {
+  float: left;
+}
+
+/* --- timeline item 3 --- */
+.timeline-text-content-3 {
+  padding: 2rem 2.5rem;
+  background: #ffffff;
+  margin-left: 2rem;
+}
+.timeline-text-content-3 p {
+  margin-bottom: 0;
+}
+.time-line-date-content-3 {
+  margin-right: 2rem;
+}
+.time-line-date-content-3 p {
+  padding: 2rem 2.5rem;
+  background: #ffffff;
+  float: right;
+}
+.timeline-element:hover .mbr-timeline-date-3 {
+  box-shadow: 0 7px 20px 0px rgba(0, 0, 0, 0.08);
+  transition: all .4s;
+}
+.timeline-element:hover .timeline-text-content-3 {
+  box-shadow: 0 7px 20px 0px rgba(0, 0, 0, 0.08);
+  transition: all .4s;
+}
+.mbr-timeline-date-3,
+.timeline-text-content-3 {
+  transition: all .4s;
+  color: #01796F;
+}
+.reverse .timeline-text-content-3 {
+  margin-right: 2rem;
+  margin-left: 0;
+}
+.reverse .time-line-date-content-3 {
+  margin-left: 2rem;
+  margin-right: 0rem;
+}
+.reverse .time-line-date-content-3 p {
+  float: left;
+}
+
+/* --- timeline item 4 --- */
+.timeline-text-content-4 {
+  padding: 2rem 2.5rem;
+  background: #ffffff;
+  margin-left: 2rem;
+}
+.timeline-text-content-4 p {
+  margin-bottom: 0;
+}
+.time-line-date-content-4 {
+  margin-right: 2rem;
+}
+.time-line-date-content-4 p {
+  padding: 2rem 2.5rem;
+  background: #ffffff;
+  float: right;
+}
+.timeline-element:hover .mbr-timeline-date-4 {
+  box-shadow: 0 7px 20px 0px rgba(0, 0, 0, 0.08);
+  transition: all .4s;
+}
+.timeline-element:hover .timeline-text-content-4 {
+  box-shadow: 0 7px 20px 0px rgba(0, 0, 0, 0.08);
+  transition: all .4s;
+}
+.mbr-timeline-date-4,
+.timeline-text-content-4 {
+  transition: all .4s;
+  color: #fa6900;
+}
+.reverse .timeline-text-content-4 {
+  margin-right: 2rem;
+  margin-left: 0;
+}
+.reverse .time-line-date-content-4 {
+  margin-left: 2rem;
+  margin-right: 0rem;
+}
+.reverse .time-line-date-content-4 p {
+  float: left;
+}
+
+/* --- timeline item 5 --- */
+.timeline-text-content-5 {
+  padding: 2rem 2.5rem;
+  background: #ffffff;
+  margin-left: 2rem;
+}
+.timeline-text-content-5 p {
+  margin-bottom: 0;
+}
+.time-line-date-content-5 {
+  margin-right: 2rem;
+}
+.time-line-date-content-5 p {
+  padding: 2rem 2.5rem;
+  background: #ffffff;
+  float: right;
+}
+.timeline-element:hover .mbr-timeline-date-5 {
+  box-shadow: 0 7px 20px 0px rgba(0, 0, 0, 0.08);
+  transition: all .4s;
+}
+.timeline-element:hover .timeline-text-content-5 {
+  box-shadow: 0 7px 20px 0px rgba(0, 0, 0, 0.08);
+  transition: all .4s;
+}
+.mbr-timeline-date-5,
+.timeline-text-content-5 {
+  transition: all .4s;
+  color: #318CE7;
+}
+.reverse .timeline-text-content-5 {
+  margin-right: 2rem;
+  margin-left: 0;
+}
+.reverse .time-line-date-content-5 {
+  margin-left: 2rem;
+  margin-right: 0rem;
+}
+.reverse .time-line-date-content-5 p {
+  float: left;
+}
