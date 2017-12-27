@@ -110,6 +110,16 @@ border: 3px dotted rgba(222, 49, 99, 1);
   margin-left: -10px;
 }
 
+@media (max-width: 768px) {
+  .cid-qEIJrN4QrK .iconBackground-1, 
+  .cid-qEIJrN4QrK .iconBackground-2, 
+  .cid-qEIJrN4QrK .iconBackground-3,
+  .cid-qEIJrN4QrK .iconBackground-4,
+  .cid-qEIJrN4QrK .iconBackground-5, {
+    left: 0 !important;
+  }
+}
+
 .cid-qEIJrN4QrK .separline:before {
   top: 20px;
   bottom: 0;
